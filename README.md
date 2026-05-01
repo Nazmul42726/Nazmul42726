@@ -54,7 +54,6 @@
   - **25th** — *MTB Presents AUST IUPC 2025*
   - **44th** — *UIU Inter-University Programming Contest 2025*
 
----
 <!--
 ## Repositories
 
@@ -68,16 +67,6 @@
 
 ---
 -->
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nazmul42726&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nazmul42726&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" />
 </p>
