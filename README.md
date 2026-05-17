@@ -25,7 +25,7 @@
 
 7th semester CSE student at the **University of Chittagong**, focused on competitive programming. I spend most of my time solving algorithmic problems and participating in programming contests.
 
-- 🎓 B.Sc. in Computer Science & Engineering — University of Chittagong *(ongoing)*
+- 🎓 B.Sc. in Computer Science & Engineering — University of Chittagong _(ongoing)_
 - 💻 Primary language: **C++**
 - 📬 Reach me at: [nazmulhasancsecu@gmail.com](mailto:nazmulhasancsecu@gmail.com)
 
@@ -33,11 +33,11 @@
 
 ## Competitive Programming
 
-| Platform | Handle | Peak Rating | Status |
-|----------|--------|-------------|--------|
-| 🟦 **Codeforces** | [Nazmul42726](https://codeforces.com/profile/Nazmul42726) | 1644 — *Expert* | 1200+ problems solved |
-| 🟨 **LeetCode** | [Nazmul42726](https://leetcode.com/u/Nazmul42726) | 1894 — *Knight* | 400+ problems solved |
-| 🟫 **CodeChef** | [nazmul42726](https://www.codechef.com/users/nazmul42726) | 1742 — *3★* | 185+ problems solved |
+| Platform          | Handle                                                    | Peak Rating     | Status                |
+| ----------------- | --------------------------------------------------------- | --------------- | --------------------- |
+| 🟦 **Codeforces** | [Nazmul42726](https://codeforces.com/profile/Nazmul42726) | 1644 — _Expert_ | 1200+ problems solved |
+| 🟨 **LeetCode**   | [Nazmul42726](https://leetcode.com/u/Nazmul42726)         | 1940 — _Knight_ | 430+ problems solved  |
+| 🟫 **CodeChef**   | [nazmul42726](https://www.codechef.com/users/nazmul42726) | 1742 — _3★_     | 185+ problems solved  |
 
 **2000+ problems solved** across all platforms.
 
@@ -51,8 +51,9 @@
 - 🏆 **2x ICPC Asia Dhaka Regional Contest**
 
 - 🏫 **IUPC Participations** — 15+ onsite contests
-  - **25th** — *MTB Presents AUST IUPC 2025*
-  - **44th** — *UIU Inter-University Programming Contest 2025*
+  - **25th** — _MTB Presents AUST IUPC 2025_
+  - **39th** - _NDUB Inter University Programming Contest 2026_
+  - **44th** — _UIU Inter-University Programming Contest 2025_
 
 <!--
 ## Repositories
