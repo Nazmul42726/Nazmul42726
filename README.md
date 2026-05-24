@@ -52,7 +52,7 @@
 
 - 🏫 **IUPC Participations** — 15+ onsite contests
   - **25th** — _MTB Presents AUST IUPC 2025_
-  - **39th** - _NDUB Inter University Programming Contest 2026_
+  - **39th** — _NDUB Inter University Programming Contest 2026_
   - **44th** — _UIU Inter-University Programming Contest 2025_
 
 <!--
