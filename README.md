@@ -51,6 +51,8 @@
 - 🏆 **2x ICPC Asia Dhaka Regional Contest**
 
 - 🏫 **IUPC Participations** — 15+ onsite contests
+  - **10th** — _CoU CSE Fest 2025 - Inter University Programming Contest_ (Divisional)
+  - **10th** — _DDN presents IUPC - IIUC Tech Fest 2025_ (Divisional)
   - **25th** — _MTB Presents AUST IUPC 2025_
   - **39th** — _NDUB Inter University Programming Contest 2026_
   - **44th** — _UIU Inter-University Programming Contest 2025_
