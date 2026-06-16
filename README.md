@@ -35,11 +35,11 @@
 
 | Platform          | Handle                                                    | Peak Rating     | Status                |
 | ----------------- | --------------------------------------------------------- | --------------- | --------------------- |
-| 🟦 **Codeforces** | [Nazmul42726](https://codeforces.com/profile/Nazmul42726) | 1644 — _Expert_ | 1200+ problems solved |
-| 🟨 **LeetCode**   | [Nazmul42726](https://leetcode.com/u/Nazmul42726)         | 1940 — _Knight_ | 430+ problems solved  |
+| 🟦 **Codeforces** | [Nazmul42726](https://codeforces.com/profile/Nazmul42726) | 1644 — _Expert_ | 1220+ problems solved |
+| 🟨 **LeetCode**   | [Nazmul42726](https://leetcode.com/u/Nazmul42726)         | 1940 — _Knight_ | 460+ problems solved  |
 | 🟫 **CodeChef**   | [nazmul42726](https://www.codechef.com/users/nazmul42726) | 1742 — _3★_     | 185+ problems solved  |
 
-**2000+ problems solved** across all platforms.
+**2100+ problems solved** across all platforms.
 
 ---
 
@@ -51,11 +51,11 @@
 - 🏆 **2x ICPC Asia Dhaka Regional Contest**
 
 - 🏫 **IUPC Participations** — 15+ onsite contests
-  - **10th** — _CoU CSE Fest 2025 - Inter University Programming Contest_ (Divisional)
-  - **10th** — _DDN presents IUPC - IIUC Tech Fest 2025_ (Divisional)
   - **25th** — _MTB Presents AUST IUPC 2025_
+  - **34th** — _bKash presents NSUCEC Cybernauts IUPC 2026_
   - **39th** — _NDUB Inter University Programming Contest 2026_
-  - **44th** — _UIU Inter-University Programming Contest 2025_
+  - **10th** — _DDN presents IUPC - IIUC Tech Fest 2025_ (Divisional)
+  - **10th** — _CoU CSE Fest 2025 - Inter University Programming Contest_ (Divisional)
 
 <!--
 ## Repositories
