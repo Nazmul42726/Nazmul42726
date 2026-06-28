@@ -36,7 +36,7 @@
 | Platform          | Handle                                                    | Peak Rating     | Status                |
 | ----------------- | --------------------------------------------------------- | --------------- | --------------------- |
 | 🟦 **Codeforces** | [Nazmul42726](https://codeforces.com/profile/Nazmul42726) | 1644 — _Expert_ | 1220+ problems solved |
-| 🟨 **LeetCode**   | [Nazmul42726](https://leetcode.com/u/Nazmul42726)         | 1940 — _Knight_ | 460+ problems solved  |
+| 🟨 **LeetCode**   | [Nazmul42726](https://leetcode.com/u/Nazmul42726)         | 1940 — _Knight_ | 480+ problems solved  |
 | 🟫 **CodeChef**   | [nazmul42726](https://www.codechef.com/users/nazmul42726) | 1742 — _3★_     | 185+ problems solved  |
 
 **2100+ problems solved** across all platforms.
@@ -52,24 +52,13 @@
 
 - 🏫 **IUPC Participations** — 15+ onsite contests
   - **25th** — _MTB Presents AUST IUPC 2025_
-  - **34th** — _bKash presents NSUCEC Cybernauts IUPC 2026_
-  - **39th** — _NDUB Inter University Programming Contest 2026_
+  - **27th** — _DUET IUPC 2026_
+  - **33th** — _bKash presents NSU IUPC 2026_
+  - **39th** — _NDUB IUPC 2026 Powered By Shohoj Coding_
   - **10th** — _DDN presents IUPC - IIUC Tech Fest 2025_ (Divisional)
-  - **10th** — _CoU CSE Fest 2025 - Inter University Programming Contest_ (Divisional)
+  - **10th** — _CoU CSE Fest 2025 - IUPC_ (Divisional)
 
-<!--
-## Repositories
 
-> 🚧 These will be made public soon — placeholders for now.
-
-| Repo | Description |
-|------|-------------|
-| 📂 `cp-solutions` | My solutions to Codeforces, LeetCode & CodeChef problems — organized by topic |
-| 📖 `cp-notes` | Personal notes on algorithms, data structures & problem-solving patterns |
-| 🧩 `contest-archive` | Code and write-ups from ICPC, IUPC, and online rounds |
-
----
--->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" />
 </p>
